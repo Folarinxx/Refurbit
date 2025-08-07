@@ -1,0 +1,28 @@
+{
+  "name": "refurbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Folarinxx/Refurbit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Folarinxx/Refurbit/issues"
+  },
+  "homepage": "https://github.com/Folarinxx/Refurbit#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0"
+  }
+}
